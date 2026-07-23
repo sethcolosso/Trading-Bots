@@ -1,0 +1,2 @@
+# Trading-Bots
+Scaliping bots
